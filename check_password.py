@@ -1,6 +1,6 @@
 '''
 Script to check root password of server from a list of passwords and output the server and its password in a different file.
-Used during project handover as root passwords were not consistent poorely maintained and had to manually verified for each server.
+Used during project handover as root passwords were not uniform & poorely maintained. Hence had to be manually verified for each server.
 Usage - check_password.py <host_file> <password_file> <output_file.csv>
 '''
 
