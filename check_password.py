@@ -1,8 +1,10 @@
 '''
-Script to check root password of server from a list of passwords
-
-Usage check_password.py host_file password_file output_file
+Script to check root password of server from a list of passwords and output the server and its password in a different file.
+Used during project handover as root passwords were not consistent poorely maintained and had to manually verified for each server.
+Usage - check_password.py <host_file> <password_file> <output_file.csv>
 '''
+
+#Created by: Karthik Mahesh
 
 import paramiko
 import logging
@@ -10,7 +12,7 @@ import sys
 import csv
 
 if not len(sys.argv) == 4:
-	print(__doc__)
+	print("Usage check_password.py <host_file> <password_file> <output_file>")
 	sys.exit(1)
 
 
