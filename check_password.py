@@ -1,6 +1,7 @@
 '''
+Script to check root password of server from a list of passwords
+
 Usage check_password.py host_file password_file output_file
-Try again
 '''
 
 import paramiko
