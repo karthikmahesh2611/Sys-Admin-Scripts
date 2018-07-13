@@ -3,6 +3,10 @@ This scripts will compare and list objects in FileA that are not there in in Fil
 version 2: Added options for case insensitive and reverse comparison
 '''
 
+
+#Created by: Karthik Mahesh
+#Email: karthik224488@gmail.com
+
 import sys
 import argparse
 
