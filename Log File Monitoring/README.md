@@ -5,3 +5,4 @@
 * Can be integrated with monitoring tools like zabbix and nagios
 * If the file inode number changes or if the lines are purged the script resets the line_read and starts reading from begining.
 * The script will generated files named file_data.bat to store the line_numbers read and file inode number (Do not modify delete these files)
+* The 'file path' and the 'regex string' can be provided in the configs.py file
