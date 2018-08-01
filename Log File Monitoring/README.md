@@ -1,4 +1,5 @@
 * The script can used to monitor log files for a particular string sequence.
+* Script is cross platform and is tested on both Windows and Linux systems
 * Outputs number of matches found
 * Script remembers the number of lines already read and the file inode number so that it processes the file from the line it last left
 * Can be integrated with monitoring tools like zabbix and nagios
