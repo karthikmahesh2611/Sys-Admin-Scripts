@@ -8,4 +8,6 @@ Created a test directory with files with 'txt' and 'jpg' extensions
 
 ![image2](https://user-images.githubusercontent.com/39571363/43499192-f27a9642-9567-11e8-9ea2-4a5e41e48076.JPG)
 
-Execute the script by giving the following arguments in the same exact order (change log extensions to txt)
+Execute the script by giving the following arguments in the same exact order (this will change txt extensions to log)
+
+![image3](https://user-images.githubusercontent.com/39571363/43499205-098c4ad8-9568-11e8-9dc9-ae023d2ae584.JPG)
