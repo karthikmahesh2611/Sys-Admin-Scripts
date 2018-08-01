@@ -11,3 +11,7 @@ Created a test directory with files with 'txt' and 'jpg' extensions
 Execute the script by giving the following arguments in the same exact order (this will change txt extensions to log)
 
 ![image3](https://user-images.githubusercontent.com/39571363/43499205-098c4ad8-9568-11e8-9dc9-ae023d2ae584.JPG)
+
+See the below result. All the 'txt' extensions got changed to 'log'. (Leaving the 'jpg' untouched)
+
+![image4](https://user-images.githubusercontent.com/39571363/43499275-571b177a-9568-11e8-84a2-0e5b2a7ecf37.JPG)
